@@ -225,11 +225,11 @@ nav .mobile-menu-exit {
 .graphics .graphicsTitle {
   font-family: var(--secondFont);
   color: white;
-  font-size: 75px;
+  font-size: 70px;
   margin: 0 auto 0em auto;
 }
 
-.graphics .graphicsTitle .fuck {
+.graphics .graphicsTitle .titlePink {
   color: var(--primaryPink);
   -webkit-text-stroke: 1px white;
 }
@@ -420,7 +420,7 @@ nav .mobile-menu-exit {
     font-size: 111px;
     margin: 0 auto 0em auto;
   }
-  .graphics .graphicsTitle .fuck {
+  .graphics .graphicsTitle .titlePink {
     color: var(--primaryPink);
     -webkit-text-stroke: 1px white;
   }
